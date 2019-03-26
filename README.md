@@ -1,12 +1,12 @@
-# _jQuery Practice_
+# _Simple Effects_
 
-#### _This is a page demonstrating some jQuery. March 25,2019_
+#### _This is a page demonstrating some simple effects using jQuery, JavaScript, and CSS. March 26,2019_
 
-#### By _**Katlin Anderson and Reese Lee**_
+#### By _**Brooke Kullberg and Reese Lee**_
 
 ## Description
 
-_This is a page demonstrating jQuery made with HTML, jQuery and JavaScript._
+_This is a page demonstrating simple effects using jQuery, JavaScript, and CSS._
 
 ## Setup/Installation Requirements
 
@@ -16,10 +16,10 @@ _This is a page demonstrating jQuery made with HTML, jQuery and JavaScript._
 
 ## Technologies Used
 
-_We used HTML, jQuery, and JavaScript to create this app._
+_We used HTML, jQuery, CSS, and JavaScript to create this app._
 
 ### License
 
 *MIT license.*
 
-Copyright (c) 2016 **_Katlin Anderson and Reese Lee_**
+Copyright (c) 2016 **_Brooke Kullberg and Reese Lee_**
