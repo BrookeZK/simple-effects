@@ -2,10 +2,24 @@
   display: none;
 }
 
-.clickable {
+#showing-clown {
+  display: none;
+}
+
+.clickableReturn {
   cursor: pointer;
   color: #0088cc;
 }
-.clickable:hover {
+
+.clickableReturn2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickableReturn:hover {
+  text-decoration: underline;
+}
+
+.clickableReturn2:hover {
   text-decoration: underline;
 }
